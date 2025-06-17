@@ -18,9 +18,18 @@ aside {
     background-image: url(./assets/images/evan-jeung-ppGsqAfBYFE-unsplash.jpg);
     height: 100vh;
     width: 35vw;
+    position: relative;
 }
 
 main {
     flex: 1;
     background-color: aliceblue;
+}
+
+#logo-container {
+    background-color: rgba(10,10,10,0.5);
+    height: 8rem;
+    width: 100%;
+    position: absolute;
+    top: 12rem;
 }
