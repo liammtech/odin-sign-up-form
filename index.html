@@ -25,7 +25,45 @@
             <h3 class="inter-bold">This is some placeholder text until I can be bothered to type out the real thing</h3>
             <h3 class="inter-bold">Lorem Ipsum is cool and all, but have we ever tried to anything original for placeholders? Seriously, some gibberish pseuso-latin from the 1500s? I just don't think it's always up to the task of creating a striking placeholder.</h3>
         </div>
-        <div id="form-container"></div>
+        <div id="form-container">
+            <h3 class="inter-bold">Here goes nothing</h3>
+            <form action="https://httpbin.org/" method="post">
+                <div class="form-input">
+                    <label class="inter-regular" for="first_name">First Name</label>
+                    <input type="text" id="first_name" name="first_name">
+                </div>
+
+                <div class="form-input">
+                    <label class="inter-regular" for="last_name">Last Name</label>
+                    <input type="text" id="last_name" name="last_name">
+                </div>
+
+                <div class="form-input">
+                    <label class="inter-regular" for="email">Email</label>
+                    <input type="email" id="email" name="email">
+                </div>
+
+                <div class="form-input">
+                    <label class="inter-regular" for="phone_number">Telephone</label>
+                    <input type="tel" id="phone_number" name="phone_number">
+                </div>
+
+                <div class="form-input">
+                    <label class="inter-regular" for="password">Password</label>
+                    <input type="password" id="password" name="password">
+                </div>
+
+                <div class="form-input">
+                    <label class="inter-regular" for="confirm_password">Confirm Password</label>
+                    <input type="password" id="confirm_password" name="confirm_password">
+                </div>
+            </form>
+
+        </div>
+        <div class="login">
+            <button id="create-account" class="inter-bold">Create Account</button>
+            <h3>Already have an account? <a href="google.com">Login</a></h3>
+        </div>
     </main>
 </body>
 </html>
