@@ -1,2 +1,5 @@
 # SIDEBAR IMAGE
 Photo by <a href="https://unsplash.com/@evanjeung?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Evan Jeung</a> on <a href="https://unsplash.com/photos/a-person-swimming-in-the-ocean-on-a-surfboard-ppGsqAfBYFE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+# VIKING SHIP LOGO
+https://www.svgrepo.com/svg/157471/viking-ship
